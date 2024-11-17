@@ -1,4 +1,19 @@
-id: oomlout_oomp_teardown_robot_vacuum_roomba_520
-name: Oomlout Oomp Teardown Robot Vacuum Roomba 520
-description: Oomlout Oomp Teardown Robot Vacuum Roomba 520
-readme_manual: ''
+id: oomlout_oomp_teardown_printer_all_in_one_inkjet_a4_canon_pixma_ts5350
+name: "Oomp Teardown Printer All In One Inkjet A4 Canon Pixma Ts5350"
+description: "oomlout_oomp_teardown_printer_all_in_one_inkjet_a4_canon_pixma_ts5350"
+readme_manual: |
+  ## notes
+  * 
+disassembly:
+- index: 1
+  title: "assembled"
+  description: "before starting"
+
+
+
+
+
+
+
+
+
